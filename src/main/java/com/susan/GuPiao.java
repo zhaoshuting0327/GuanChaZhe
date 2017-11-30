@@ -29,6 +29,7 @@ public class GuPiao implements  Ticket {
         {
            for(People o:list)
            {
+               System.out.println("hahaha");
                o.callMe();
            }
         }
